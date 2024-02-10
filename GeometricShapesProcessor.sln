@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricShapesProcessor", "GeometricShapesProcessor\GeometricShapesProcessor.csproj", "{1769DD78-B788-401C-8858-7CD38242DA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricShapeProcessorTests", "GeometricShapeProcessorTests\GeometricShapeProcessorTests.csproj", "{7CE34AC3-CF25-488B-BAE1-4FF6800B0BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1769DD78-B788-401C-8858-7CD38242DA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1769DD78-B788-401C-8858-7CD38242DA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1769DD78-B788-401C-8858-7CD38242DA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1769DD78-B788-401C-8858-7CD38242DA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE34AC3-CF25-488B-BAE1-4FF6800B0BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE34AC3-CF25-488B-BAE1-4FF6800B0BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE34AC3-CF25-488B-BAE1-4FF6800B0BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE34AC3-CF25-488B-BAE1-4FF6800B0BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
